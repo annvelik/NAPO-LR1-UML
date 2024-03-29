@@ -9,7 +9,7 @@
 Составить 5 UML-диаграмм для программы контроля доступа и очереди взлётно-посадочной полосы (очередь, взлёт, посадка)
 
 ## Диаграмма классов
-![class_diagram](class_diagram.jpeg)
+![class_diagram](class_diagram.jpg)
 
 ## Диаграмма компонентов
 ![component_diagram](ComponentDiagram.jpeg)
@@ -18,7 +18,7 @@
 ![activity_diagram](ActivityDiagram.jpeg)
 
 ## Диагрмма UseCase
-![use_case_diagram](use-case_diagram.jpeg)
+![use_case_diagram](use-case_diagram.jpg)
 
 ## Диаграмма состояний
-![state_diagram](statechart_diagram.jpeg)
+![state_diagram](statechart_diagram.jpg)
